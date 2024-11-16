@@ -82,7 +82,7 @@ To set up locally, follow these steps:
 
 - Clone the repository:
 
-      git clone https://github.com/ShaunSDavid/DocIT_MERN_App.git
+      git clone https://github.com/ShaunSDavid/DocIT_NM_MernApp.git
 
 - Install the required dependencies for backend:
 
